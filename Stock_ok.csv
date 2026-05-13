@@ -1,0 +1,4 @@
+Product,Price,Stock_A,Stock_B,Stock_C,Discount,Total_Stock,Stock_Value,Discounted_Price,Is_Popular
+A,30,50,60,55,0.9,165,4950.00,27.00,No
+B,10,80,70,65,0.8,215,2150.00,8.00,Yes
+C,20,60,50,75,0.95,185,3700.00,19.00,No

@@ -1,0 +1,4 @@
+Product,Price,Stock_A,Stock_B,Stock_C,Discount
+A,30,50,60,55,0.9
+B,10,80,70,65,0.8
+C,20,60,50,75,0.95
