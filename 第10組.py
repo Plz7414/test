@@ -1,6 +1,6 @@
-#安裝插件皆在packages.md
+#安裝插件可看packages.md 可用pip install -r requirements.txt匯入
 #記帳功能撰寫-蔡騰逸 UI/UX設計-丁仲恩 可愛擔當-劉紘安
-#使用方法按三角形執行後再Terminal輸入 streamlit run app.py
+#使用方法按三角形執行後再Terminal輸入 streamlit run 第10組.py
 import datetime
 import matplotlib.pyplot as plt
 import numpy as np
